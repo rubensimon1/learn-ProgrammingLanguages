@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-postgreSql.png" alt="PostGreSQL" width="100%">
+</p>
+
 # 🐘 PostgreSQL
 
 > _“Potencia, estabilidad y precisión en cada consulta.”_  
