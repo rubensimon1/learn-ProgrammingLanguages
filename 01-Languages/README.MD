@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./01-Languages/banner-lenguajes.png" alt="Lenguajes de Programación" width="100%">
+  <img src="./banner-lenguajes.png" alt="Lenguajes de Programación" width="100%">
 </p>
-
 
 # 💻 Lenguajes / Languages
 
