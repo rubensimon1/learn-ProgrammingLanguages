@@ -1,0 +1,77 @@
+1.
+Escribe un programa que imprima en pantalla “Hola Mundo”.
+Objetivo: Familiarizarse con System.out.println y la estructura de un programa Java.
+
+2. 
+Crea un programa que declare variables de distintos tipos (int, double, char, boolean, String), asigne valores y los muestre por pantalla.
+Objetivo: Conocer tipos de datos, declaración y salida de variables.
+
+3.
+Escribe un programa que pida dos números y muestre:
+Suma, resta, multiplicación y división
+Comparación (> , < , ==)
+Operadores lógicos (&&, ||, !)
+
+4.
+Crea un programa que pida la edad de una persona y muestre:
+“Menor de edad” si es menor de 18
+“Adulto” si tiene entre 18 y 65
+“Adulto mayor” si es mayor de 65
+Objetivo: Practicar if, else if, else y anidamientos.
+
+5.
+Mostrar todos los números pares del 1 al 100 usando for y while.
+Pedir 5 números al usuario y mostrar la suma usando do-while.
+Objetivo: Practicar distintos tipos de bucles y acumuladores.
+
+6.
+Pide al usuario su nombre y edad, y luego imprime un mensaje:
+“Hola [nombre], tienes [edad] años.”
+Objetivo: Uso de Scanner y concatenación de cadenas.
+
+7.
+Pide al usuario 5 notas, guárdalas en un array y muestra el promedio.
+Objetivo: Uso de arrays, bucles y validación de datos.
+
+8.
+Crea un método recursivo que calcule el factorial de un número ingresado por el usuario.
+Objetivo: Aprender métodos, recursión y retorno de valores.
+
+9.
+Crea una clase Persona con atributos privados (nombre, edad) y métodos getNombre, getEdad, mostrarDatos.
+En main, crea dos personas y muestra sus datos.
+Objetivo: POO básica: encapsulamiento y métodos.
+
+10.
+Clase Empleado que extiende de Persona con atributo salario.
+Sobrescribir mostrarDatos para mostrar salario también.
+Crear varias instancias y mostrar la información.
+Objetivo: Practicar herencia y polimorfismo.
+
+11.
+Usar ArrayList para almacenar nombres de estudiantes y mostrarlos.
+Usar HashMap para asociar nombre → edad.
+Objetivo: Familiarizarse con ArrayList, HashMap y recorridos.
+
+12.
+Crear un programa que pida dos números y realice la división.
+Manejar la división por cero usando try-catch.
+Objetivo: Introducir control de excepciones.
+
+13.
+Crear un programa que escriba 5 nombres en un archivo de texto.
+Luego, leer el archivo y mostrarlos por pantalla.
+Objetivo: Manejo básico de ficheros con FileWriter/FileReader.
+
+14.
+Sistema que permita crear Persona y Empleado.
+Guardar los datos en un archivo de texto.
+Mostrar listado desde el archivo.
+Manejar errores y validaciones.
+Objetivo: Combinar POO + ficheros + excepciones + colecciones.
+
+15.
+Simula un problema productor-consumidor con una pila de capacidad limitada.
+Los productores generan números y los consumidores los suman.
+Objetivo: Practicar hilos, sincronización (synchronized, wait, notify) y concurrencia.
+
