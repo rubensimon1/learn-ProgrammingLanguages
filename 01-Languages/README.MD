@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./01-Languages/banner-lenguajes.png" alt="Lenguajes de Programación" width="100%">
+</p>
+
+
 # 💻 Lenguajes / Languages
 
 En esta sección encontrarás ejercicios y proyectos en diferentes **lenguajes de programación** como Java, Python, Kotlin, C#, JavaScript, entre otros.
