@@ -3,8 +3,8 @@
 > _“El aprendizaje constante es el combustible del progreso.”_
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/rubensimon1/Learning-Hub)
-![GitHub last commit](https://img.shields.io/github/last-commit/rubensimon1/Learning-Hub)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/rubensimon1/learn-ProgrammingLanguages)
+![GitHub last commit](https://img.shields.io/github/last-commit/rubensimon1/learn-ProgrammingLanguages)
 ![Made with Love](https://img.shields.io/badge/Made%20with-💻%20and%20☕-blue)
 
 ---
