@@ -1,35 +1,27 @@
 # 🧩 Kotlin
 
-> _“Moderno, expresivo y seguro.”_  
-> _“Modern, expressive, and safe.”_
+> _“Moderno, expresivo y seguro.”_
 
 ---
 
 ## 🧩 Descripción | Description
 
-Esta sección se centra en **Kotlin**, un lenguaje moderno que combina la potencia de Java con una sintaxis más limpia y segura.  
-Se utiliza ampliamente en desarrollo **Android** y proyectos multiplataforma.
-
-This section focuses on **Kotlin**, a modern language that combines Java’s power with a cleaner and safer syntax.  
-It’s widely used in **Android development** and cross-platform projects.
+En esta sección aprenderás **Kotlin**, un lenguaje moderno diseñado para simplificar el código y mejorar la seguridad.  
+Perfecto para desarrollo **Android** o para aprender sintaxis moderna.
 
 ---
 
-## 🎯 Objetivos | Goals
+## 📚 Estructura
 
-- 🧱 Entender la sintaxis moderna de Kotlin.  
-- 🔒 Practicar el manejo seguro de nulos (*null safety*).  
-- ⚙️ Crear clases, objetos y funciones de extensión.  
-- 💡 Trabajar con colecciones y lambdas.
+| Carpeta | Contenido |
+|----------|------------|
+| 🧠 `basicos/` | Variables, tipos y estructuras de control. |
+| ⚙️ `funciones/` | Funciones, lambdas y argumentos por defecto. |
+| 🧱 `clases/` | POO, constructores, herencia y clases de datos. |
+| 📚 `colecciones/` | Listas, maps, sets y operaciones funcionales. |
+| 🔒 `null-safety/` | Manejo seguro de nulos, operadores `?.`, `!!`, `?:`. |
 
 ---
 
-## 🗂️ Contenido | Contents
-
-- Tipos de datos y estructuras básicas.  
-- Condicionales y bucles.  
-- Funciones, lambdas y null safety.  
-- Clases, objetos y herencia.  
-- Programación funcional.  
-
-> 🧠 Perfecto para quienes vienen de Java y quieren un lenguaje más fluido.
+## 🧠 Recomendación
+Explora la comparación entre Kotlin y Java para entender su potencia y sintaxis simplificada.

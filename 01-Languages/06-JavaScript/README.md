@@ -1,36 +1,27 @@
 # 🌐 JavaScript
 
-> _“El lenguaje del navegador... y mucho más.”_  
-> _“The language of the browser… and beyond.”_
+> _“El lenguaje del navegador… y mucho más.”_
 
 ---
 
 ## 🧩 Descripción | Description
 
-Esta carpeta explora el lenguaje **JavaScript**, clave en el desarrollo web moderno.  
-Aquí aprenderás tanto la lógica base como su aplicación práctica en el **DOM**, eventos y funciones dinámicas.
-
-This folder explores **JavaScript**, the core of modern web development.  
-You’ll learn its base logic and practical applications in the **DOM**, events, and dynamic behavior.
+Aprenderás **JavaScript**, el lenguaje esencial para la web moderna.  
+Desde los fundamentos hasta la manipulación del DOM, eventos y asincronía.
 
 ---
 
-## 🎯 Objetivos | Goals
+## 📚 Estructura
 
-- 🧠 Comprender la lógica y sintaxis del lenguaje.  
-- 🌍 Manipular el **DOM** y los eventos.  
-- ⚙️ Crear funciones, callbacks y promesas.  
-- 🔄 Entender la asincronía con `async/await`.
+| Carpeta | Contenido |
+|----------|------------|
+| 🧠 `basicos/` | Variables (`let`, `const`, `var`), bucles y funciones. |
+| ⚙️ `funciones/` | Funciones, closures y callbacks. |
+| 🌍 `dom/` | Manipulación del DOM, selectores y elementos. |
+| ⚡ `eventos/` | Escuchadores, eventos y respuestas dinámicas. |
+| 🔄 `asincronía/` | Promesas, `async/await` y manejo de APIs. |
 
 ---
 
-## 🗂️ Contenido | Contents
-
-- Variables (`let`, `const`, `var`).  
-- Condicionales y bucles.  
-- Funciones y closures.  
-- DOM y eventos.  
-- JSON y APIs.  
-- Introducción a ES6+.
-
-> ⚡ Ideal para quienes quieran dar el salto al desarrollo web.
+## 🧠 Recomendación
+Experimenta con pequeños proyectos web o integrando APIs públicas.

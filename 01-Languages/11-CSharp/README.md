@@ -1,33 +1,26 @@
 # ⚙️ C# (C Sharp)
 
-> _“Potencia, claridad y orientación a objetos.”_  
-> _“Power, clarity, and object orientation.”_
+> _“Potencia, claridad y orientación a objetos.”_
 
 ---
 
 ## 🧩 Descripción | Description
 
-En esta carpeta encontrarás ejemplos y ejercicios de **C#**, un lenguaje robusto y versátil utilizado en desarrollo **.NET, videojuegos (Unity)** y aplicaciones empresariales.
-
-In this folder, you’ll find examples and exercises in **C#**, a robust and versatile language used in **.NET, game development (Unity)**, and enterprise applications.
+Aprenderás los fundamentos del lenguaje **C#**, ampliamente utilizado en desarrollo con **.NET**, aplicaciones de escritorio, videojuegos (Unity) y servicios backend.
 
 ---
 
-## 🎯 Objetivos | Goals
+## 📚 Estructura
 
-- 🧱 Dominar la sintaxis y estructuras del lenguaje.  
-- 💡 Aplicar principios de POO y programación modular.  
-- ⚙️ Utilizar colecciones genéricas y LINQ.  
-- 🧩 Crear pequeños programas de consola o GUI.
+| Carpeta | Contenido |
+|----------|------------|
+| 🧠 `basicos/` | Sintaxis, operadores, condicionales y bucles. |
+| ⚙️ `poo/` | Clases, interfaces, herencia y métodos. |
+| 📚 `colecciones/` | Listas, diccionarios, arrays y LINQ. |
+| 🔍 `linq/` | Consultas de datos funcionales con LINQ. |
+| ❗ `excepciones/` | Manejo de errores, excepciones personalizadas y try-catch-finally. |
 
 ---
 
-## 🗂️ Contenido | Contents
-
-- Tipos de datos, operadores y estructuras de control.  
-- Clases, interfaces y herencia.  
-- Colecciones, listas y diccionarios.  
-- LINQ y expresiones lambda.  
-- Excepciones y archivos.
-
-> 🎮 Incluye ejemplos inspirados en escenarios reales (Unity, CRUD, etc.).
+## 🧠 Recomendación
+Practica integrando LINQ en pequeños proyectos de consola o CRUD simples.
