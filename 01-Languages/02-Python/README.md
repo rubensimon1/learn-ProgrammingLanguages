@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-python.png" alt="Python" width="100%">
+</p>
+
 # 🐍 Python
 
 > _“Sencillo, legible y poderoso.”_

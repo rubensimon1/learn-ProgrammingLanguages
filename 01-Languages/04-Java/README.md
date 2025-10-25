@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-java.png" alt="java" width="100%">
+  <img src="./banner-java.png" alt="Java" width="100%">
 </p>
 
 # ☕ Java
