@@ -1,4 +1,4 @@
-package a_Languages.Java.src.basicos;
+package _01_Languages.Java.src.basicos;
 
 /**
  * Ejemplo de tipos de datos básicos en Java.
