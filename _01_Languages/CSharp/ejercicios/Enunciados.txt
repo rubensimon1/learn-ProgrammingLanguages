@@ -1,0 +1,112 @@
+
+🧩 EJERCICIOS DE C# (DE MENOR A MAYOR DIFICULTAD)
+
+------------------------------------------------------------
+🟢 NIVEL BÁSICO
+------------------------------------------------------------
+
+_01_HolaMundo.cs
+Crea un programa que muestre por consola el texto “Hola Mundo desde C#”.
+
+_02_TiposDeDatos.cs
+Declara variables de diferentes tipos (int, double, bool, char, string) y muestra sus valores.
+
+_03_Operadores.cs
+Declara dos números enteros y muestra la suma, resta, multiplicación, división y módulo.
+
+_04_Condicionales.cs
+Pide al usuario su edad y muestra si es menor de edad, adulto o jubilado.
+
+_05_Bucles.cs
+Muestra los números del 1 al 10 usando for, while y do-while.
+
+_06_EntradaSalida.cs
+Pide al usuario su nombre y edad, y muestra un mensaje personalizado.
+
+------------------------------------------------------------
+🟡 NIVEL POO
+------------------------------------------------------------
+
+_01_ClaseYObjeto.cs
+Crea una clase Persona con nombre y edad, instancia un objeto y muestra sus datos.
+
+_02_Constructores.cs
+Añade un constructor a la clase Persona y crea varios objetos.
+
+_03_Encapsulacion.cs
+Implementa encapsulación en una clase CuentaBancaria con métodos Depositar, Retirar y MostrarSaldo.
+
+_04_Herencia.cs
+Crea Empleado y Gerente (subclase) con atributos y métodos, mostrando herencia.
+
+_05_Polimorfismo.cs
+Crea una lista de Empleados y Gerentes y llama a MostrarDatos() usando polimorfismo.
+
+_06_Interfaces.cs
+Crea una interfaz IVehiculo con Arrancar y Detener, implementada por Coche y Moto.
+
+------------------------------------------------------------
+🟡 NIVEL COLECCIONES / LINQ
+------------------------------------------------------------
+
+_01_Array.cs
+Crea un array de enteros, asigna valores y muéstralos.
+
+_02_List.cs
+Crea una lista de nombres, añade elementos y recórrela con foreach.
+
+_03_Dictionary.cs
+Crea un diccionario con productos y precios y muéstralos.
+
+_04_Iteradores.cs
+Usa un iterador para recorrer una lista de enteros y mostrar la suma.
+
+_05_LINQ_Basico.cs
+Usa LINQ para filtrar números mayores a 25 en una lista.
+
+_06_LINQ_Ordenar.cs
+Usa LINQ para ordenar alfabéticamente una lista de nombres.
+
+------------------------------------------------------------
+💾 NIVEL FICHEROS
+------------------------------------------------------------
+
+_01_EscribirArchivo.cs
+Crea un archivo "nombres.txt" y escribe varios nombres.
+
+_02_LeerArchivo.cs
+Lee un archivo "nombres.txt" y muestra cada línea.
+
+_03_CopiarArchivo.cs
+Copia el contenido de "nombres.txt" en "copia.txt".
+
+_04_AppendArchivo.cs
+Añade nuevas líneas a "nombres.txt" sin borrar el contenido anterior.
+
+_05_SerializacionBinaria.cs
+Crea una clase Persona, guarda objetos en binario y luego recupéralos.
+
+_06_LeerArchivoConExcepciones.cs
+Lee un archivo y maneja posibles errores con try-catch.
+
+------------------------------------------------------------
+❗ NIVEL EXCEPCIONES
+------------------------------------------------------------
+
+_01_TryCatchSimple.cs
+Pide un número y muestra su división entre 10. Maneja errores de formato.
+
+_02_DivisionPorCero.cs
+Pide dos números y realiza la división. Maneja la división por cero.
+
+_03_MultiplesCatch.cs
+Manejo de múltiples excepciones: formato, división por cero y genérica.
+
+_04_ThrowExcepcion.cs
+Crea un método que lance excepción si el número es negativo.
+
+_05_ExcepcionPersonalizada.cs
+Crea EdadInvalidaException y lánzala si la edad es <0 o >120.
+
+_06_Finally.cs
+Pide un número, realiza división y muestra mensaje en finally aunque haya error.

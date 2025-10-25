@@ -1,0 +1,112 @@
+
+🧩 EJERCICIOS DE KOTLIN (DE MENOR A MAYOR DIFICULTAD)
+
+------------------------------------------------------------
+🟢 NIVEL BÁSICO
+------------------------------------------------------------
+
+_01_HolaMundo.kt
+Muestra por consola "Hola Mundo desde Kotlin".
+
+_02_TiposDeDatos.kt
+Declara variables de distintos tipos (Int, Double, Boolean, Char, String) y muestra sus valores.
+
+_03_Operadores.kt
+Declara dos números y muestra su suma, resta, multiplicación, división y módulo.
+
+_04_Condicionales.kt
+Pide la edad del usuario y muestra si es menor de edad, adulto o jubilado.
+
+_05_Bucles.kt
+Muestra los números del 1 al 10 usando for, while y do-while.
+
+_06_EntradaSalida.kt
+Pide al usuario su nombre y edad, y muestra un mensaje personalizado.
+
+------------------------------------------------------------
+🟡 NIVEL FUNCIONES
+------------------------------------------------------------
+
+_01_FuncionSimple.kt
+Crea una función `saludar` que reciba un nombre y lo muestre por consola.
+
+_02_FuncionConRetorno.kt
+Crea una función que reciba dos números y devuelva su suma.
+
+_03_FuncionConArgumentosPorDefecto.kt
+Crea una función `presentarse` con argumentos por defecto nombre="Invitado" y edad=0.
+
+_04_LambdaSimple.kt
+Crea una lambda que reciba un número y devuelva su cuadrado.
+
+_05_LambdaConLista.kt
+Crea una lista de números y usa lambda con map para elevarlos al cuadrado.
+
+_06_LambdaFiltrar.kt
+Crea una lista de nombres y usa lambda con filter para quedarte solo con los que empiezan con 'A'.
+
+------------------------------------------------------------
+🟡 NIVEL CLASES / POO
+------------------------------------------------------------
+
+_01_ClaseYObjeto.kt
+Crea una clase Persona con nombre y edad, instancia un objeto y muestra sus datos.
+
+_02_Encapsulacion.kt
+Crea una clase CuentaBancaria con atributos privados, métodos depositar, retirar y mostrarSaldo.
+
+_03_Herencia.kt
+Crea Empleado y Gerente (subclase), muestra datos y salario total.
+
+_04_ClasesDeDatos.kt
+Crea una clase de datos Producto con nombre y precio, instancia varios productos y muéstralos.
+
+_05_Polimorfismo.kt
+Crea lista de Empleados y Gerentes y usa polimorfismo para llamar a mostrarDatos().
+
+_06_Interfaces.kt
+Crea interfaz IVehiculo con métodos arrancar y detener, implementada por Coche y Moto.
+
+------------------------------------------------------------
+📚 NIVEL COLECCIONES
+------------------------------------------------------------
+
+_01_List.kt
+Crea lista de nombres, añade elementos y recórrela con un bucle for.
+
+_02_Set.kt
+Crea un set de números y observa que no guarda duplicados.
+
+_03_Map.kt
+Crea un map con productos y precios, añade elementos y muéstralos.
+
+_04_FuncionesMapFilter.kt
+Crea lista de números y usa map para elevar al cuadrado y filter para quedarte con los mayores a 10.
+
+_05_FuncionesAnyAll.kt
+Crea lista de números y verifica si todos son positivos (all) y si hay algún par (any).
+
+_06_OrdenarLista.kt
+Crea lista de nombres y ordénalos alfabéticamente usando sorted.
+
+------------------------------------------------------------
+🔒 NIVEL NULL-SAFETY
+------------------------------------------------------------
+
+_01_SafeCall.kt
+Crea variable nullable de tipo String y usa operador ?. para acceder a longitud.
+
+_02_ElvisOperator.kt
+Usa operador ?: para proporcionar valor por defecto si variable es null.
+
+_03_NonNullAssertion.kt
+Usa operador !! para forzar que una variable nullable no sea null.
+
+_04_FuncionConNullable.kt
+Crea función que reciba String? y devuelva longitud usando safe call y valor por defecto.
+
+_05_FiltrarNulls.kt
+Crea lista de Strings nullable y filtra elementos no nulos con filterNotNull.
+
+_06_OperacionesConNullable.kt
+Crea dos variables Int? y realiza operaciones sumando solo si no son null.

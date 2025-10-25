@@ -1,77 +1,143 @@
-1.
-Escribe un programa que imprima en pantalla “Hola Mundo”.
-Objetivo: Familiarizarse con System.out.println y la estructura de un programa Java.
 
-2. 
-Crea un programa que declare variables de distintos tipos (int, double, char, boolean, String), asigne valores y los muestre por pantalla.
-Objetivo: Conocer tipos de datos, declaración y salida de variables.
+🧩 EJERCICIOS DE JAVA (DE MENOR A MAYOR DIFICULTAD)
 
-3.
-Escribe un programa que pida dos números y muestre:
-Suma, resta, multiplicación y división
-Comparación (> , < , ==)
-Operadores lógicos (&&, ||, !)
+------------------------------------------------------------
+🟢 NIVEL BÁSICO
+------------------------------------------------------------
 
-4.
-Crea un programa que pida la edad de una persona y muestre:
-“Menor de edad” si es menor de 18
-“Adulto” si tiene entre 18 y 65
-“Adulto mayor” si es mayor de 65
-Objetivo: Practicar if, else if, else y anidamientos.
+1. Hola Mundo
+Crea un programa que muestre por consola el texto “Hola Mundo desde Java”.
 
-5.
-Mostrar todos los números pares del 1 al 100 usando for y while.
-Pedir 5 números al usuario y mostrar la suma usando do-while.
-Objetivo: Practicar distintos tipos de bucles y acumuladores.
+2. Tipos de datos
+Declara variables de diferentes tipos (int, double, boolean, char, String) y muestra sus valores.
 
-6.
-Pide al usuario su nombre y edad, y luego imprime un mensaje:
-“Hola [nombre], tienes [edad] años.”
-Objetivo: Uso de Scanner y concatenación de cadenas.
+3. Operaciones aritméticas
+Pide al usuario dos números y muestra la suma, resta, multiplicación, división y módulo.
 
-7.
-Pide al usuario 5 notas, guárdalas en un array y muestra el promedio.
-Objetivo: Uso de arrays, bucles y validación de datos.
+4. Conversión de tipos
+Declara una variable double y conviértela a int. Muestra ambos valores por consola.
 
-8.
-Crea un método recursivo que calcule el factorial de un número ingresado por el usuario.
-Objetivo: Aprender métodos, recursión y retorno de valores.
+5. Condicionales simples
+Pide la edad del usuario y muestra si es menor de edad, adulto o jubilado.
 
-9.
-Crea una clase Persona con atributos privados (nombre, edad) y métodos getNombre, getEdad, mostrarDatos.
-En main, crea dos personas y muestra sus datos.
-Objetivo: POO básica: encapsulamiento y métodos.
+6. Mayor de tres números
+Pide tres números y muestra cuál es el mayor de ellos.
 
-10.
-Clase Empleado que extiende de Persona con atributo salario.
-Sobrescribir mostrarDatos para mostrar salario también.
-Crear varias instancias y mostrar la información.
-Objetivo: Practicar herencia y polimorfismo.
+7. Tabla de multiplicar
+Pide un número del 1 al 10 y muestra su tabla de multiplicar usando un bucle for.
 
-11.
-Usar ArrayList para almacenar nombres de estudiantes y mostrarlos.
-Usar HashMap para asociar nombre → edad.
-Objetivo: Familiarizarse con ArrayList, HashMap y recorridos.
+8. Contador de números pares e impares
+Pide 10 números al usuario y muestra cuántos son pares e impares.
 
-12.
-Crear un programa que pida dos números y realice la división.
-Manejar la división por cero usando try-catch.
-Objetivo: Introducir control de excepciones.
+9. Suma de números hasta N
+Pide un número entero N y muestra la suma de todos los números desde 1 hasta N.
 
-13.
-Crear un programa que escriba 5 nombres en un archivo de texto.
-Luego, leer el archivo y mostrarlos por pantalla.
-Objetivo: Manejo básico de ficheros con FileWriter/FileReader.
+10. Calculadora simple con switch
+Pide dos números y una operación (+, -, *, /) y muestra el resultado según el caso.
 
-14.
-Sistema que permita crear Persona y Empleado.
-Guardar los datos en un archivo de texto.
-Mostrar listado desde el archivo.
-Manejar errores y validaciones.
-Objetivo: Combinar POO + ficheros + excepciones + colecciones.
+------------------------------------------------------------
+🟡 NIVEL INTERMEDIO
+------------------------------------------------------------
 
-15.
-Simula un problema productor-consumidor con una pila de capacidad limitada.
-Los productores generan números y los consumidores los suman.
-Objetivo: Practicar hilos, sincronización (synchronized, wait, notify) y concurrencia.
+11. Método de área de un triángulo
+Crea un método que reciba base y altura y devuelva el área de un triángulo.
 
+12. Método para contar vocales
+Crea un método que reciba una cadena y devuelva el número de vocales.
+
+13. Array de enteros
+Declara un array con 10 enteros, asígnales valores y muestra la suma total.
+
+14. Array bidimensional (matriz)
+Crea una matriz 3x3 con números y muestra la suma de cada fila.
+
+15. Buscar elemento en un array
+Crea un array de nombres y pide al usuario uno. Indica si está o no en el array.
+
+16. Clase Persona (POO)
+Crea una clase Persona con nombre y edad. Crea varios objetos y muestra sus datos.
+
+17. Clase Coche con métodos
+Crea una clase Coche con atributos marca, modelo y velocidad. Incluye métodos acelerar() y frenar().
+
+18. Uso de constructores y toString()
+Añade constructores y sobrescribe toString() para mostrar los datos de la clase Coche.
+
+19. Herencia: Empleado y Gerente
+Crea una clase Empleado con nombre y salario. Crea una clase Gerente que herede de Empleado y tenga un bonus adicional.
+
+20. Polimorfismo con animales
+Crea una superclase Animal con el método hacerSonido() y varias subclases (Perro, Gato) que lo sobrescriban.
+
+21. ArrayList de objetos Persona
+Crea un ArrayList que almacene objetos Persona y muestra sus nombres y edades.
+
+22. Buscar persona por nombre en ArrayList
+Usa un bucle o un Iterator para buscar si existe una persona con determinado nombre.
+
+23. Uso de HashMap
+Crea un HashMap<String, Integer> donde la clave sea el nombre de un producto y el valor su precio. Muestra todos los pares clave-valor.
+
+24. TreeSet con números
+Crea un TreeSet<Integer> y añade varios números desordenados. Muestra el conjunto ordenado automáticamente.
+
+25. Lectura de archivo de texto
+Crea un archivo datos.txt con varias líneas y muestra su contenido por consola.
+
+26. Escritura en archivo con BufferedWriter
+Pide al usuario varios nombres y escríbelos en un archivo nombres.txt.
+
+27. Lectura y conteo de palabras
+Lee el contenido de un archivo y muestra cuántas líneas y palabras tiene.
+
+28. Copia de archivo
+Copia el contenido de un archivo origen.txt en otro llamado copia.txt.
+
+29. Manejo de excepciones
+Crea un programa que pida dos números e intente dividirlos. Maneja el error ArithmeticException si el divisor es 0.
+
+30. Excepción personalizada
+Crea una excepción llamada EdadInvalidaException que se lance si un usuario tiene menos de 0 años.
+
+------------------------------------------------------------
+🔴 NIVEL AVANZADO
+------------------------------------------------------------
+
+31. Serialización de objetos
+Crea una clase Persona y guarda una lista de personas en un archivo binario (personas.dat). Luego recupéralas e imprímelas.
+
+32. Deserialización con validación
+Lee objetos desde un archivo binario y valida que tengan nombre y edad correctos.
+
+33. Gestor de empleados (POO + ficheros)
+Crea un programa con clases Empleado, Gerente y Empresa que permita:
+- Añadir empleados
+- Guardarlos en un archivo binario
+- Leerlos y mostrarlos
+
+34. Registro de usuarios (colecciones + ficheros)
+Simula un registro de usuarios guardando datos (nombre, email, contraseña) en un archivo.
+Permite añadir, buscar y eliminar usuarios.
+
+35. Agenda de contactos (ArrayList + ficheros)
+Crea una agenda que guarde contactos (nombre, teléfono, correo) en un archivo.
+Permite añadir, buscar y eliminar contactos.
+
+36. Lectura recursiva de carpetas
+Crea un método recursivo que muestre todos los archivos y carpetas dentro de una ruta.
+
+37. Comparación y ordenación de objetos
+Crea una clase Alumno con nombre y nota. Usa Comparable o Comparator para ordenar por nota descendente.
+
+38. Sistema de notas con HashMap y ficheros
+Usa un HashMap<String, Double> para almacenar alumnos y sus notas. Guarda y recupera los datos desde un archivo de texto.
+
+39. Contador de palabras con HashMap
+Lee un texto de un archivo y cuenta cuántas veces aparece cada palabra.
+
+40. Proyecto final: Biblioteca digital
+Crea un sistema que gestione libros y usuarios.
+- Los libros se guardan en una colección (ArrayList o HashMap).
+- Los usuarios pueden pedir o devolver libros.
+- Guarda toda la información en archivos (texto o binarios).
+- Maneja errores con excepciones personalizadas.
