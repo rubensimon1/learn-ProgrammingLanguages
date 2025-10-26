@@ -1,0 +1,3 @@
+SELECT * FROM usuarios
+ORDER BY edad DESC
+LIMIT 2;

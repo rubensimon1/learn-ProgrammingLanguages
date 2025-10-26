@@ -1,0 +1,5 @@
+-- Exportar toda la base de datos a un archivo SQL (modo consola)
+-- Desde terminal SQLite:
+-- .output backup.sql
+-- .dump
+-- .output stdout

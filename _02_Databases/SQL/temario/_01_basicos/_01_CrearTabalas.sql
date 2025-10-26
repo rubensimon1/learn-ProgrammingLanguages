@@ -1,0 +1,13 @@
+CREATE TABLE usuarios (
+id INT PRIMARY KEY AUTO_INCREMENT,
+nombre VARCHAR(50) NOT NULL,
+edad INT,
+ciudad VARCHAR(50)
+);
+
+CREATE TABLE pedidos (
+id INT PRIMARY KEY AUTO_INCREMENT,
+fecha DATE,
+usuario_id INT,
+total DECIMAL(10, 2)
+);
