@@ -13,7 +13,7 @@ Cada nivel aumenta la complejidad y combina temas de programación estructurada,
 |-----------|--------------|
 | [🎮 Juego del Ahorcado](./ejercicios/_01_basico/_01_JuegoDelAhorcado.md) | Adivina la palabra antes de agotar tus intentos. |
 | [💱 Conversor de Monedas](./ejercicios/_01_basico/_02_ConversorMonedas.md) | Convierte valores entre distintas divisas. |
-| [⏱ Temporizador con Hilos](./ejercicios/_03_basico/_03_TemporizadorHilos.md) | Un contador regresivo usando hilos. |
+| [⏱ Temporizador con Hilos](./ejercicios/_01_basico/_03_TemporizadorHilos.md) | Un contador regresivo usando hilos. |
 
 ---
 
