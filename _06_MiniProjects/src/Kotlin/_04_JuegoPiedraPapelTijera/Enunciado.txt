@@ -1,0 +1,1 @@
+Crea un juego de Piedra, Papel o Tijera contra la computadora, mostrando quién gana cada ronda. Usa when y funciones.

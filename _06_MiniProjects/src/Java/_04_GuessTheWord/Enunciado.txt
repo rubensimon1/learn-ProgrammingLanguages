@@ -1,0 +1,1 @@
+Crea un juego tipo “Ahorcado” simple donde el usuario debe adivinar una palabra letra por letra.

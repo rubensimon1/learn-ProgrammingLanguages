@@ -1,0 +1,1 @@
+Crea una lista de estudiantes (nombre, nota) usando data class. Permite agregar estudiantes y mostrar los aprobados (nota >= 5) usando filter.

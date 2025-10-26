@@ -1,0 +1,1 @@
+Crea un programa que obtenga datos de una API pública de usuarios y los muestre en una tabla HTML usando fetch y async/await.

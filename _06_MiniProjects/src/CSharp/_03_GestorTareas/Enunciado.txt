@@ -1,0 +1,1 @@
+Crea un programa que gestione tareas (nombre, completada). Permite agregar tareas, listar todas y marcar como completadas.

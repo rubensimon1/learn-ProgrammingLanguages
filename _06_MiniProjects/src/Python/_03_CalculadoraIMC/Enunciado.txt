@@ -1,0 +1,1 @@
+Crea un programa que calcule el IMC de varios usuarios y muestre su clasificación: Bajo peso, Normal, Sobrepeso, Obesidad.

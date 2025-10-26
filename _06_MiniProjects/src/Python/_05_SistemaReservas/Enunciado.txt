@@ -1,0 +1,1 @@
+Crea un sistema de reservas de sala de reuniones. Permite reservar horas, verificar disponibilidad y almacenar todo en un archivo CSV.

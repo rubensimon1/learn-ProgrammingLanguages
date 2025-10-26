@@ -1,0 +1,1 @@
+Crea un programa que permita agregar, eliminar y mostrar productos de una lista de compras. Guarda la lista en un archivo para que persista entre ejecuciones.

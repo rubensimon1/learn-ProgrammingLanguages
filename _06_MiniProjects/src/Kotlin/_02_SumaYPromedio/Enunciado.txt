@@ -1,0 +1,1 @@
+Pide al usuario 5 números, guárdalos en una lista y muestra la suma y el promedio usando funciones de colección.
