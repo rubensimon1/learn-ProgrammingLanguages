@@ -1,0 +1,50 @@
+==============================
+📘 EJERCICIOS DE JAVASCRIPT
+==============================
+
+Nivel: De básico a avanzado
+Incluye: variables, funciones, DOM, eventos, asincronía y manejo de errores.
+
+-----------------------------------
+🧠 NIVEL BÁSICO
+-----------------------------------
+
+1️⃣ Crea un script que muestre "Hola Mundo" en la consola.
+2️⃣ Declara tres variables (nombre, edad y país) y muéstralas en una sola línea.
+3️⃣ Pide al usuario su nombre con prompt() y salúdalo en un alert.
+4️⃣ Declara un array con 5 números y muestra su suma total.
+5️⃣ Crea una función que reciba dos números y devuelva su suma.
+6️⃣ Escribe un bucle que muestre los números del 1 al 10 en consola.
+7️⃣ Usa un bucle for para mostrar solo los números pares del 1 al 20.
+8️⃣ Crea una función que determine si un número es par o impar.
+9️⃣ Crea un programa que pida un número y muestre su tabla de multiplicar.
+10️⃣ Declara un objeto “persona” con nombre, edad y profesión, y muéstralo por consola.
+
+-----------------------------------
+⚙️ NIVEL INTERMEDIO (DOM y FUNCIONES)
+-----------------------------------
+
+11️⃣ Crea un HTML con un botón y un párrafo. Al hacer clic, cambia el texto del párrafo.
+12️⃣ Crea un input y un botón que, al presionarlo, muestren el valor escrito en consola.
+13️⃣ Crea una lista <ul> y agrega elementos dinámicamente con JavaScript.
+14️⃣ Crea una función flecha que convierta grados Celsius a Fahrenheit.
+15️⃣ Usa `map()` para crear un nuevo array con el doble de cada número de una lista.
+16️⃣ Usa `filter()` para obtener los números mayores a 10 de un array.
+17️⃣ Usa `reduce()` para sumar todos los valores de un array.
+18️⃣ Crea una función que reciba un array de nombres y devuelva el más largo.
+19️⃣ Crea una función que reciba una cadena y devuelva cuántas vocales contiene.
+20️⃣ Crea una función que devuelva un número aleatorio entre 1 y 100.
+
+-----------------------------------
+⚡ NIVEL AVANZADO (EVENTOS, ASINCRONÍA Y ERRORES)
+-----------------------------------
+
+21️⃣ Crea un evento que cambie el color de fondo del body cuando el usuario hace doble clic.
+22️⃣ Usa `setInterval()` para crear un contador que aumente cada segundo hasta 10.
+23️⃣ Usa `fetch()` para obtener datos de una API pública y mostrar el resultado en consola.
+24️⃣ Crea una función asincrónica con `async/await` que espere 3 segundos antes de mostrar un mensaje.
+25️⃣ Crea una función que lance un error si el parámetro recibido no es número, y captura el error con try/catch.
+
+-----------------------------------
+🏁 FIN DE LOS EJERCICIOS
+-----------------------------------
