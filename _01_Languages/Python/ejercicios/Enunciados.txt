@@ -1,0 +1,60 @@
+==============================
+🐍 EJERCICIOS DE PYTHON
+==============================
+
+Nivel: De básico a avanzado
+Enfocados en sintaxis, estructuras, POO, ficheros, módulos y características únicas de Python.
+
+-----------------------------------
+🧠 NIVEL BÁSICO
+-----------------------------------
+
+1️⃣ Crea un programa que imprima “Hola, Python” en consola.
+2️⃣ Declara variables de diferentes tipos (int, float, str, bool) y muestra sus tipos con `type()`.
+3️⃣ Pide al usuario su nombre y edad, y muestra un mensaje formateado usando f-strings.
+4️⃣ Crea una lista con 5 frutas y muestra la primera y la última usando índices negativos.
+5️⃣ Usa slicing para obtener los tres primeros elementos de una lista.
+6️⃣ Crea una tupla con tres colores y desempaquétala en tres variables.
+7️⃣ Crea un diccionario con claves “nombre”, “edad” y “profesión”, e imprime sus valores.
+8️⃣ Usa un set para almacenar nombres sin duplicados.
+9️⃣ Usa un bucle `for` para recorrer una lista con `enumerate()` y mostrar el índice y valor.
+10️⃣ Usa un bucle `while` para sumar números del 1 al 100.
+
+-----------------------------------
+⚙️ NIVEL INTERMEDIO (FUNCIONES Y LÓGICA)
+-----------------------------------
+
+11️⃣ Define una función que reciba un número y devuelva si es primo o no.
+12️⃣ Crea una función con parámetros opcionales y por nombre.
+13️⃣ Crea una función recursiva que calcule el factorial de un número.
+14️⃣ Usa una función `lambda` y `map()` para elevar al cuadrado los números de una lista.
+15️⃣ Usa una **list comprehension** para obtener todos los múltiplos de 3 entre 1 y 30.
+16️⃣ Crea una función que reciba una lista y devuelva otra sin elementos repetidos (usando `set()`).
+17️⃣ Crea una función que reciba una cadena y devuelva un diccionario con el conteo de cada letra.
+18️⃣ Usa `zip()` para combinar dos listas en un diccionario.
+19️⃣ Usa `any()` y `all()` para comprobar condiciones sobre listas booleanas.
+20️⃣ Crea un generador (`yield`) que devuelva los números pares hasta un límite.
+
+-----------------------------------
+🧱 NIVEL AVANZADO (POO, FICHEROS Y MÓDULOS)
+-----------------------------------
+
+21️⃣ Crea una clase `Persona` con atributos nombre y edad, y un método que los muestre.
+22️⃣ Agrega un método `__str__()` a la clase `Persona` para mostrar su información de forma legible.
+23️⃣ Crea una clase `Empleado` que herede de `Persona` y añada el atributo “salario”.
+24️⃣ Crea un programa que lea un archivo `datos.txt` e imprima cada línea en mayúsculas.
+25️⃣ Crea un módulo `operaciones.py` con funciones `sumar()` y `restar()`, y un archivo principal que las importe.
+
+-----------------------------------
+🐍 BONUS (CARACTERÍSTICAS PYTHONICAS)
+-----------------------------------
+
+26️⃣ Usa una **dict comprehension** para crear un diccionario con los cuadrados de los números del 1 al 5.
+27️⃣ Crea una función que use `*args` y `**kwargs` para imprimir todos los argumentos recibidos.
+28️⃣ Usa `try...except` para manejar un posible error de división por cero.
+29️⃣ Crea un decorador que mida el tiempo de ejecución de una función.
+30️⃣ Crea un script que detecte si se ejecuta directamente o es importado (`if __name__ == "__main__":`).
+
+-----------------------------------
+🏁 FIN DE LOS EJERCICIOS
+-----------------------------------
