@@ -1,0 +1,22 @@
+package _13_TestingAndValidation.src._02_ValidacionDatos;
+
+import java.util.Scanner;
+
+public class _02_ValidacionDatos {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int numero;
+
+        do {
+            System.out.print("Introduce un número entre 1 y 10: ");
+            while (!sc.hasNextInt()) {
+                System.out.print("No es un número. Intenta de nuevo: ");
+                sc.next();
+            }
+            numero = sc.nextInt();
+        } while (numero < 1 || numero > 10);
+
+        System.out.println("Número válido: " + numero);
+        sc.close();
+    }
+}
