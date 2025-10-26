@@ -11,7 +11,7 @@ Cada nivel aumenta la complejidad y combina temas de programación estructurada,
 
 | Proyecto | Descripción |
 |-----------|--------------|
-| [🎮 Juego del Ahorcado](./_01_basico/_01_JuegoDelAhorcado.md) | Adivina la palabra antes de agotar tus intentos. |
+| [🎮 Juego del Ahorcado](./ejercicios/_01_basico/_01_JuegoDelAhorcado.md) | Adivina la palabra antes de agotar tus intentos. |
 | [💱 Conversor de Monedas](./_01_basico/_02_ConversorMonedas.md) | Convierte valores entre distintas divisas. |
 | [⏱ Temporizador con Hilos](./_03_basico/_03_TemporizadorHilos.md) | Un contador regresivo usando hilos. |
 
