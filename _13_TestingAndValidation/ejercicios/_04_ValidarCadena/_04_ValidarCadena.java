@@ -11,5 +11,6 @@ public class _04_ValidarCadena {
             texto = sc.nextLine();
         } while (texto == null || texto.trim().isEmpty());
         System.out.println("Texto válido: " + texto);
+        sc.close();
     }
 }

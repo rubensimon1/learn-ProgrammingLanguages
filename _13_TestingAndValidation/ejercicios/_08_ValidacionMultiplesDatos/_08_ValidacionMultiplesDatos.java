@@ -27,5 +27,6 @@ public class _08_ValidacionMultiplesDatos {
         } while (!correo.contains("@"));
 
         System.out.println("Datos válidos: " + nombre + ", " + edad + ", " + correo);
+        sc.close();
     }
 }

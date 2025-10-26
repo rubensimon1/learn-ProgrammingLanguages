@@ -15,5 +15,6 @@ public class _02_ValidarRango {
             numero = sc.nextInt();
         } while (numero < 1 || numero > 100);
         System.out.println("Número válido: " + numero);
+        sc.close();
     }
 }
